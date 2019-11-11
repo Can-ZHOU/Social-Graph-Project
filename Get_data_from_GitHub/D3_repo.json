@@ -1,0 +1,1206 @@
+{
+    "data": {
+        "D3_whole_project": {
+            "D3_repo": {
+                "D3_sub_repo_info": [
+                    {
+                        "each_repo": {
+                            "name": "d3",
+                            "homepageUrl": "https://d3js.org",
+                            "star": {
+                                "totalCount": 88446,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Leonardo Cabral",
+                                            "login": "leomcabral"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Billy Coover",
+                                            "login": "azcoov"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-queue",
+                            "homepageUrl": "https://bl.ocks.org/mbostock/1696080",
+                            "star": {
+                                "totalCount": 1411,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Norbert Crombach",
+                                            "login": "norbert"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "weepy",
+                                            "login": "weepy"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-plugins",
+                            "homepageUrl": "https://github.com/d3/d3/wiki/Plugins",
+                            "star": {
+                                "totalCount": 1808,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Justin Palmer",
+                                            "login": "caged"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Seth Fitzsimmons",
+                                            "login": "mojodna"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3.github.com",
+                            "homepageUrl": "https://d3js.org/",
+                            "star": {
+                                "totalCount": 172,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "miminashi",
+                                            "login": "miminashi"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Gary Cheeseman",
+                                            "login": "gcman105"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-dsv",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-dsv",
+                            "star": {
+                                "totalCount": 231,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Mohammad Reza Taesiri",
+                                            "login": "taesiri"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Philippe Serhal",
+                                            "login": "serhalp"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-geo-projection",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-geo-projection",
+                            "star": {
+                                "totalCount": 779,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Jarrod Overson",
+                                            "login": "jsoverson"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Tobias Preuss",
+                                            "login": "johnjohndoe"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-selection",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-selection",
+                            "star": {
+                                "totalCount": 336,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Alejandro U. Alvarez",
+                                            "login": "aurbano"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Athan",
+                                            "login": "kgryte"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-selection-multi",
+                            "homepageUrl": "",
+                            "star": {
+                                "totalCount": 65,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "timelyportfolio",
+                                            "login": "timelyportfolio"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Athan",
+                                            "login": "kgryte"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-bundler",
+                            "homepageUrl": "",
+                            "star": {
+                                "totalCount": 31,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "S. Andrew Sheppard",
+                                            "login": "sheppard"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Curran Kelleher",
+                                            "login": "curran"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-transition",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-transition",
+                            "star": {
+                                "totalCount": 131,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Niclas Darville",
+                                            "login": "ndarville"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Johannes Wachter",
+                                            "login": "jwachter"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-ease",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-ease",
+                            "star": {
+                                "totalCount": 453,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Xiaolei Yu",
+                                            "login": "xiaoleiy"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Athan",
+                                            "login": "kgryte"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-color",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-color",
+                            "star": {
+                                "totalCount": 207,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Andrew Dona-Couch",
+                                            "login": "couchand"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Athan",
+                                            "login": "kgryte"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-array",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-array",
+                            "star": {
+                                "totalCount": 219,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Athan",
+                                            "login": "kgryte"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Parker Moore",
+                                            "login": "parkr"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-dispatch",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-dispatch",
+                            "star": {
+                                "totalCount": 52,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "jqtrde",
+                                            "login": "jacquestardie"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Athan",
+                                            "login": "kgryte"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-request",
+                            "homepageUrl": "",
+                            "star": {
+                                "totalCount": 90,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "JD Isaacks",
+                                            "login": "jisaacks"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Athan",
+                                            "login": "kgryte"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-timer",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-timer",
+                            "star": {
+                                "totalCount": 116,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Thomas Efer",
+                                            "login": "efi"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Artyom Fedosov",
+                                            "login": "asleepwalker"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-random",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-random",
+                            "star": {
+                                "totalCount": 76,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": null,
+                                            "login": "julescarbon"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "ixaxaar",
+                                            "login": "ixaxaar"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-interpolate",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-interpolate",
+                            "star": {
+                                "totalCount": 259,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Athan",
+                                            "login": "kgryte"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Martin H. Normark",
+                                            "login": "martinnormark"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-format",
+                            "homepageUrl": "",
+                            "star": {
+                                "totalCount": 341,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Adam Garrett-Harris",
+                                            "login": "agarrharr"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Athan",
+                                            "login": "kgryte"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-scale",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-scale",
+                            "star": {
+                                "totalCount": 1150,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Adam Garrett-Harris",
+                                            "login": "agarrharr"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Athan",
+                                            "login": "kgryte"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-time",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-time",
+                            "star": {
+                                "totalCount": 159,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Derk-Jan Karrenbeld",
+                                            "login": "SleeplessByte"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "JD Isaacks",
+                                            "login": "jisaacks"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-time-format",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-time-format",
+                            "star": {
+                                "totalCount": 163,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Curran Kelleher",
+                                            "login": "curran"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Tod Robbins",
+                                            "login": "todrobbins"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-quadtree",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-quadtree",
+                            "star": {
+                                "totalCount": 117,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Rob Scanlon",
+                                            "login": "arscan"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Kamil Slowikowski",
+                                            "login": "slowkow"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-hull",
+                            "homepageUrl": "https://github.com/d3/d3-polygon/blob/master/README.md#polygonHull",
+                            "star": {
+                                "totalCount": 8,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Athan",
+                                            "login": "kgryte"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Davo Galavotti",
+                                            "login": "davo"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-voronoi",
+                            "homepageUrl": null,
+                            "star": {
+                                "totalCount": 199,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Athan",
+                                            "login": "kgryte"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Adam Garrett-Harris",
+                                            "login": "agarrharr"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-path",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-path",
+                            "star": {
+                                "totalCount": 135,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": null,
+                                            "login": "SantoshSrinivas79"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Adam Garrett-Harris",
+                                            "login": "agarrharr"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-shape",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-shape",
+                            "star": {
+                                "totalCount": 1888,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Mirco Zeiss",
+                                            "login": "zemirco"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "timelyportfolio",
+                                            "login": "timelyportfolio"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-polygon",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-polygon",
+                            "star": {
+                                "totalCount": 54,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "timelyportfolio",
+                                            "login": "timelyportfolio"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": null,
+                                            "login": "mgasner"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-hierarchy",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-hierarchy",
+                            "star": {
+                                "totalCount": 433,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Adam Garrett-Harris",
+                                            "login": "agarrharr"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Athan",
+                                            "login": "kgryte"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-force",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-force",
+                            "star": {
+                                "totalCount": 716,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Luis Capelo",
+                                            "login": "luiscape"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Grant Titus",
+                                            "login": "granttitus"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-sankey",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-sankey",
+                            "star": {
+                                "totalCount": 448,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "timelyportfolio",
+                                            "login": "timelyportfolio"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Athan",
+                                            "login": "kgryte"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-chord",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-chord",
+                            "star": {
+                                "totalCount": 77,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Curran Kelleher",
+                                            "login": "curran"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Luis Sevillano",
+                                            "login": "LuisSevillano"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-hexbin",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-hexbin",
+                            "star": {
+                                "totalCount": 142,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Rob Scanlon",
+                                            "login": "arscan"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Athan",
+                                            "login": "kgryte"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-logo",
+                            "homepageUrl": null,
+                            "star": {
+                                "totalCount": 17,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Mattia Tezzele",
+                                            "login": "mrzool"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Victor",
+                                            "login": "vicapow"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-axis",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-axis",
+                            "star": {
+                                "totalCount": 124,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Michael Barry",
+                                            "login": "msbarry"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Athan",
+                                            "login": "kgryte"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-collection",
+                            "homepageUrl": null,
+                            "star": {
+                                "totalCount": 92,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Curran Kelleher",
+                                            "login": "curran"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "sibo",
+                                            "login": "yangsibai"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-geo",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-geo",
+                            "star": {
+                                "totalCount": 500,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Fabricio Ronchi",
+                                            "login": "realronchi"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Gurman Bhatia",
+                                            "login": "gurmanbh"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-drag",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-drag",
+                            "star": {
+                                "totalCount": 180,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "detailyang",
+                                            "login": "detailyang"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Athan",
+                                            "login": "kgryte"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-zoom",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-zoom",
+                            "star": {
+                                "totalCount": 233,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Fabricio Ronchi",
+                                            "login": "realronchi"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Athan",
+                                            "login": "kgryte"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-brush",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-brush",
+                            "star": {
+                                "totalCount": 88,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "timelyportfolio",
+                                            "login": "timelyportfolio"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Athan",
+                                            "login": "kgryte"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-scale-chromatic",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-scale-chromatic",
+                            "star": {
+                                "totalCount": 458,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Chris Zubak-Skees",
+                                            "login": "chriszs"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Chris Polis",
+                                            "login": "cmpolis"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-hsv",
+                            "homepageUrl": "",
+                            "star": {
+                                "totalCount": 18,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Athan",
+                                            "login": "kgryte"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Fabian Morón Zirfas",
+                                            "login": "fabianmoronzirfas"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-tile",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-tile",
+                            "star": {
+                                "totalCount": 86,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "timelyportfolio",
+                                            "login": "timelyportfolio"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": null,
+                                            "login": "SantoshSrinivas79"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-3.x-api-reference",
+                            "homepageUrl": "https://github.com/d3/d3-3.x-api-reference/blob/master/API-Reference.md",
+                            "star": {
+                                "totalCount": 112,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Andrew Koroluk",
+                                            "login": "Awk34"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Visahavel",
+                                            "login": "wizvishak"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-hcg",
+                            "homepageUrl": "",
+                            "star": {
+                                "totalCount": 13,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Sergio C.",
+                                            "login": "acterhd"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Waldir Pimenta",
+                                            "login": "waldyrious"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-fetch",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-fetch",
+                            "star": {
+                                "totalCount": 141,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Ae",
+                                            "login": "MadebyAe"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Erik Vavro",
+                                            "login": "slurmulon"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-contour",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-contour",
+                            "star": {
+                                "totalCount": 286,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Ziggy Jonsson",
+                                            "login": "ZJONSSON"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Alihanniba",
+                                            "login": "Alihanniba"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-require",
+                            "homepageUrl": null,
+                            "star": {
+                                "totalCount": 50,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "gregory nicholas",
+                                            "login": "gregorynicholas"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Luis Sevillano",
+                                            "login": "LuisSevillano"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-scripts",
+                            "homepageUrl": null,
+                            "star": {
+                                "totalCount": 10,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "David  Bumbeishvili",
+                                            "login": "bumbeishvili"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Luis Sevillano",
+                                            "login": "LuisSevillano"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-geo-polygon",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-geo-polygon",
+                            "star": {
+                                "totalCount": 68,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Philippe Rivière",
+                                            "login": "Fil"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Cameron Priestley ",
+                                            "login": "campriest"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-delaunay",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-delaunay",
+                            "star": {
+                                "totalCount": 256,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "timelyportfolio",
+                                            "login": "timelyportfolio"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Martín González",
+                                            "login": "martgnz"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-cam16",
+                            "homepageUrl": null,
+                            "star": {
+                                "totalCount": 10,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Sam Petulla",
+                                            "login": "petulla"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Dan Burzo",
+                                            "login": "danburzo"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
