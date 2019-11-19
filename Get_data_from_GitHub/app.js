@@ -6,26 +6,28 @@ const accessToken = 'accessToken_has_been_deleted';
 // This GraphQL query is to get the D3 repo information.
 const query = `
 query {
-    D3_whole_project:repositoryOwner(login:"d3"){
-      D3_repo: repositories(first:52) {
-        D3_sub_repo_info:edges{
-          each_repo:node{
-            name
-            homepageUrl
-            star:stargazers(first:2){
-              totalCount
-              first_two_stargazers:edges{
-                profile:node{
-                  name
+  D3_whole_project:repositoryOwner(login:"d3"){
+    D3_repo: repositories(first:5) {
+      D3_sub_repo_info:edges{
+        each_repo:node{
+          name
+          issues(last:2) {
+            issues_info:edges{
+              each_issue:node{
+                author{
                   login
                 }
+                state
+                locked
+                number
               }
             }
           }
         }
       }
     }
-  }`;
+  }
+}`;
 
   
 // Using fetch to access GitHub GraphQL API.
