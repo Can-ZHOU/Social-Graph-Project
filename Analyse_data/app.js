@@ -14,7 +14,7 @@ for (var i = 0; i < obj_1.length; i++) {
 }
 
 a += "]};";
-output.writeFile('output.js', a,  function(err) {
+output.writeFile('output_JSON.js', a,  function(err) {
     if (err) {
         return console.error(err);
     }
