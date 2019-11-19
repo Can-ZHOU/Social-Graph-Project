@@ -1,0 +1,125 @@
+{
+    "data": {
+        "D3_whole_project": {
+            "D3_repo": {
+                "D3_sub_repo_info": [
+                    {
+                        "each_repo": {
+                            "name": "d3",
+                            "homepageUrl": "https://d3js.org",
+                            "star": {
+                                "totalCount": 88606,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Leonardo Cabral",
+                                            "login": "leomcabral"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Billy Coover",
+                                            "login": "azcoov"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-queue",
+                            "homepageUrl": "https://bl.ocks.org/mbostock/1696080",
+                            "star": {
+                                "totalCount": 1412,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Norbert Crombach",
+                                            "login": "norbert"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "weepy",
+                                            "login": "weepy"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-plugins",
+                            "homepageUrl": "https://github.com/d3/d3/wiki/Plugins",
+                            "star": {
+                                "totalCount": 1809,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Justin Palmer",
+                                            "login": "caged"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Seth Fitzsimmons",
+                                            "login": "mojodna"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3.github.com",
+                            "homepageUrl": "https://d3js.org/",
+                            "star": {
+                                "totalCount": 173,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "miminashi",
+                                            "login": "miminashi"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Gary Cheeseman",
+                                            "login": "gcman105"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-dsv",
+                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-dsv",
+                            "star": {
+                                "totalCount": 231,
+                                "first_two_stargazers": [
+                                    {
+                                        "profile": {
+                                            "name": "Mohammad Reza Taesiri",
+                                            "login": "taesiri"
+                                        }
+                                    },
+                                    {
+                                        "profile": {
+                                            "name": "Philippe Serhal",
+                                            "login": "serhalp"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
