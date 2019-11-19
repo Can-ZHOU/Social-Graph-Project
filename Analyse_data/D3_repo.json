@@ -6,20 +6,36 @@
                     {
                         "each_repo": {
                             "name": "d3",
-                            "homepageUrl": "https://d3js.org",
-                            "star": {
-                                "totalCount": 88606,
-                                "first_two_stargazers": [
+                            "issues": {
+                                "issues_info": [
                                     {
-                                        "profile": {
-                                            "name": "Leonardo Cabral",
-                                            "login": "leomcabral"
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "znicholasbrown"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 3354
                                         }
                                     },
                                     {
-                                        "profile": {
-                                            "name": "Billy Coover",
-                                            "login": "azcoov"
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "wudashuaige"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 3355
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "srikarbobbiganipalli"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 3356
                                         }
                                     }
                                 ]
@@ -29,20 +45,36 @@
                     {
                         "each_repo": {
                             "name": "d3-queue",
-                            "homepageUrl": "https://bl.ocks.org/mbostock/1696080",
-                            "star": {
-                                "totalCount": 1412,
-                                "first_two_stargazers": [
+                            "issues": {
+                                "issues_info": [
                                     {
-                                        "profile": {
-                                            "name": "Norbert Crombach",
-                                            "login": "norbert"
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "russellbits"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 71
                                         }
                                     },
                                     {
-                                        "profile": {
-                                            "name": "weepy",
-                                            "login": "weepy"
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "ajoposor"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 72
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "zrfrank"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 73
                                         }
                                     }
                                 ]
@@ -52,20 +84,36 @@
                     {
                         "each_repo": {
                             "name": "d3-plugins",
-                            "homepageUrl": "https://github.com/d3/d3/wiki/Plugins",
-                            "star": {
-                                "totalCount": 1809,
-                                "first_two_stargazers": [
+                            "issues": {
+                                "issues_info": [
                                     {
-                                        "profile": {
-                                            "name": "Justin Palmer",
-                                            "login": "caged"
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "alsguimaraes"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": true,
+                                            "number": 159
                                         }
                                     },
                                     {
-                                        "profile": {
-                                            "name": "Seth Fitzsimmons",
-                                            "login": "mojodna"
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "sunscheung"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": true,
+                                            "number": 160
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "dotnetwise"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": true,
+                                            "number": 163
                                         }
                                     }
                                 ]
@@ -75,20 +123,44 @@
                     {
                         "each_repo": {
                             "name": "d3.github.com",
-                            "homepageUrl": "https://d3js.org/",
-                            "star": {
-                                "totalCount": 173,
-                                "first_two_stargazers": [
+                            "issues": {
+                                "issues_info": []
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-dsv",
+                            "issues": {
+                                "issues_info": [
                                     {
-                                        "profile": {
-                                            "name": "miminashi",
-                                            "login": "miminashi"
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "mbostock"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 50
                                         }
                                     },
                                     {
-                                        "profile": {
-                                            "name": "Gary Cheeseman",
-                                            "login": "gcman105"
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "Fil"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 51
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "rdmurphy"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 57
                                         }
                                     }
                                 ]
@@ -97,21 +169,357 @@
                     },
                     {
                         "each_repo": {
-                            "name": "d3-dsv",
-                            "homepageUrl": "https://observablehq.com/collection/@d3/d3-dsv",
-                            "star": {
-                                "totalCount": 231,
-                                "first_two_stargazers": [
+                            "name": "d3-geo-projection",
+                            "issues": {
+                                "issues_info": [
                                     {
-                                        "profile": {
-                                            "name": "Mohammad Reza Taesiri",
-                                            "login": "taesiri"
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "toja"
+                                            },
+                                            "state": "OPEN",
+                                            "locked": false,
+                                            "number": 176
                                         }
                                     },
                                     {
-                                        "profile": {
-                                            "name": "Philippe Serhal",
-                                            "login": "serhalp"
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "mbostock"
+                                            },
+                                            "state": "OPEN",
+                                            "locked": false,
+                                            "number": 177
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "mxfh"
+                                            },
+                                            "state": "OPEN",
+                                            "locked": false,
+                                            "number": 178
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-selection",
+                            "issues": {
+                                "issues_info": [
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "raphael0302"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 224
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "frameworker2019"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 227
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "pravi"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 229
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-selection-multi",
+                            "issues": {
+                                "issues_info": [
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "headwinds"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": true,
+                                            "number": 17
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "j-funk"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": true,
+                                            "number": 18
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "zr87"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": true,
+                                            "number": 19
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-bundler",
+                            "issues": {
+                                "issues_info": []
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-transition",
+                            "issues": {
+                                "issues_info": [
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "SunGuoQiang123"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 97
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "mtraynham"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 100
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "linli-bambora"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 101
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-ease",
+                            "issues": {
+                                "issues_info": [
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "skipjack"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 16
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "Kielan"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 17
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "tmcw"
+                                            },
+                                            "state": "OPEN",
+                                            "locked": false,
+                                            "number": 20
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-color",
+                            "issues": {
+                                "issues_info": [
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "mbostock"
+                                            },
+                                            "state": "OPEN",
+                                            "locked": false,
+                                            "number": 64
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "mbostock"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 66
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "sriharshayedlapalli"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 68
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-array",
+                            "issues": {
+                                "issues_info": [
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "konradjurk"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 127
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "Leannechn"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 129
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "alex-mm"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 130
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-dispatch",
+                            "issues": {
+                                "issues_info": [
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "curran"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 16
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "ChALkeR"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 18
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "Josema"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 19
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-request",
+                            "issues": {
+                                "issues_info": [
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "wulucxy"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 36
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "computationdoc"
+                                            },
+                                            "state": "OPEN",
+                                            "locked": false,
+                                            "number": 37
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "mvdobrinin"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 38
                                         }
                                     }
                                 ]
