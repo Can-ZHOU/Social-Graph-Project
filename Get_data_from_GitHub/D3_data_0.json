@@ -126,6 +126,130 @@
                                 ]
                             }
                         }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-geo-projection",
+                            "issues": {
+                                "issues_info": [
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "mbostock"
+                                            },
+                                            "state": "OPEN",
+                                            "locked": false,
+                                            "number": 177
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "mxfh"
+                                            },
+                                            "state": "OPEN",
+                                            "locked": false,
+                                            "number": 178
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-selection",
+                            "issues": {
+                                "issues_info": [
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "pravi"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 229
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "beekimrj"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 234
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-selection-multi",
+                            "issues": {
+                                "issues_info": [
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "j-funk"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": true,
+                                            "number": 18
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "zr87"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": true,
+                                            "number": 19
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-bundler",
+                            "issues": {
+                                "issues_info": []
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-transition",
+                            "issues": {
+                                "issues_info": [
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "mtraynham"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 100
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "linli-bambora"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 101
+                                        }
+                                    }
+                                ]
+                            }
+                        }
                     }
                 ]
             }
