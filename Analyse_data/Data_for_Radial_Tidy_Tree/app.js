@@ -1,7 +1,7 @@
 var output = require("fs");
 var input = require("fs");
 
-var obj_0 = JSON.parse(input.readFileSync("D3_repo.json"));
+var obj_0 = JSON.parse(input.readFileSync("D3_data_0.json"));
 var obj_1 = obj_0.data.D3_whole_project.D3_repo.D3_sub_repo_info
 
 var str = "var json_data = {\"name\": \"D3\", \"children\": [";
