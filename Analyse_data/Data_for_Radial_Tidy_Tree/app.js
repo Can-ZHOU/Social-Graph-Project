@@ -38,7 +38,7 @@ for (var i = 0; i < obj_1.length; i++) {
 
 str += "]}";
 
-output.writeFile('output_JSON.js', str,  function(err) {
+output.writeFile('Radial_Tidy_Tree_JSON.js', str,  function(err) {
     if (err) {
         return console.error(err);
     }
