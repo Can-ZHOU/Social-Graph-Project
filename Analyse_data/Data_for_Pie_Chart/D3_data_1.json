@@ -1,0 +1,120 @@
+{
+    "data": {
+        "D3_whole_project": {
+            "D3_repo": {
+                "D3_sub_repo_info": [
+                    {
+                        "each_repo": {
+                            "name": "d3",
+                            "forkCount": 21558,
+                            "diskUsage": 41488,
+                            "stargazers": {
+                                "totalCount": 88638
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-shape",
+                            "forkCount": 227,
+                            "diskUsage": 1848,
+                            "stargazers": {
+                                "totalCount": 1894
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-plugins",
+                            "forkCount": 709,
+                            "diskUsage": 676,
+                            "stargazers": {
+                                "totalCount": 1809
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-queue",
+                            "forkCount": 148,
+                            "diskUsage": 119,
+                            "stargazers": {
+                                "totalCount": 1412
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-scale",
+                            "forkCount": 232,
+                            "diskUsage": 752,
+                            "stargazers": {
+                                "totalCount": 1153
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-geo-projection",
+                            "forkCount": 167,
+                            "diskUsage": 20143,
+                            "stargazers": {
+                                "totalCount": 782
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-force",
+                            "forkCount": 236,
+                            "diskUsage": 600,
+                            "stargazers": {
+                                "totalCount": 723
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-geo",
+                            "forkCount": 114,
+                            "diskUsage": 5967,
+                            "stargazers": {
+                                "totalCount": 502
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-scale-chromatic",
+                            "forkCount": 52,
+                            "diskUsage": 164,
+                            "stargazers": {
+                                "totalCount": 462
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-ease",
+                            "forkCount": 37,
+                            "diskUsage": 589,
+                            "stargazers": {
+                                "totalCount": 455
+                            }
+                        }
+                    },
+                    {
+                        "each_repo": {
+                            "name": "d3-sankey",
+                            "forkCount": 174,
+                            "diskUsage": 1131,
+                            "stargazers": {
+                                "totalCount": 450
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
