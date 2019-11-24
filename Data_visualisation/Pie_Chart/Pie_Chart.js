@@ -10,4 +10,68 @@ var chart = c3.generate({
     }
 });
 
+setTimeout(function () {
+    var chart = c3.generate({
+        bindto: '#chart',
+        data: {
+            json: json_data_diskUsage,
+            type : 'pie',
+            onclick: function (d, i) { console.log("onclick", d, i); },
+            onmouseover: function (d, i) { console.log("onmouseover", d, i); },
+            onmouseout: function (d, i) { console.log("onmouseout", d, i); }
+        }
+    });
+}, 1500);
 
+setTimeout(function () {
+    var chart = c3.generate({
+        bindto: '#chart',
+        data: {
+            json: json_data_star,
+            type : 'pie',
+            onclick: function (d, i) { console.log("onclick", d, i); },
+            onmouseover: function (d, i) { console.log("onmouseover", d, i); },
+            onmouseout: function (d, i) { console.log("onmouseout", d, i); }
+        }
+    });
+}, 3000);
+
+// // Second time
+// setTimeout(function () {
+//     var chart = c3.generate({
+//         bindto: '#chart',
+//         data: {
+//             json: json_data_forkCount,
+//             type : 'pie',
+//             onclick: function (d, i) { console.log("onclick", d, i); },
+//             onmouseover: function (d, i) { console.log("onmouseover", d, i); },
+//             onmouseout: function (d, i) { console.log("onmouseout", d, i); }
+//         }
+//     });
+// }, 4500);
+
+// setTimeout(function () {
+//     var chart = c3.generate({
+//         bindto: '#chart',
+//         data: {
+//             json: json_data_diskUsage,
+//             type : 'pie',
+//             onclick: function (d, i) { console.log("onclick", d, i); },
+//             onmouseover: function (d, i) { console.log("onmouseover", d, i); },
+//             onmouseout: function (d, i) { console.log("onmouseout", d, i); }
+//         }
+//     });
+// }, 6000);
+
+// setTimeout(function () {
+//     var chart = c3.generate({
+//         bindto: '#chart',
+//         data: {
+//             json: json_data_star,
+//             type : 'pie',
+//             onclick: function (d, i) { console.log("onclick", d, i); },
+//             onmouseover: function (d, i) { console.log("onmouseover", d, i); },
+//             onmouseout: function (d, i) { console.log("onmouseout", d, i); }
+//         }
+//     });
+// }, 7500);
