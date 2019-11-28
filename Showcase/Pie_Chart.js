@@ -108,3 +108,36 @@ var chart_2 = c3.generate({
         onmouseout: function (d, i) { console.log("onmouseout", d, i); }
     }
 });
+
+var chart_0 = c3.generate({
+    bindto: '#chart_0_2',
+    data: {
+        json: json_data_forkCount,
+        type : 'donut',
+        onclick: function (d, i) { console.log("onclick", d, i); },
+        onmouseover: function (d, i) { console.log("onmouseover", d, i); },
+        onmouseout: function (d, i) { console.log("onmouseout", d, i); }
+    }
+});
+
+var chart_1 = c3.generate({
+    bindto: '#chart_1_2',
+    data: {
+        json: json_data_diskUsage,
+        type : 'donut',
+        onclick: function (d, i) { console.log("onclick", d, i); },
+        onmouseover: function (d, i) { console.log("onmouseover", d, i); },
+        onmouseout: function (d, i) { console.log("onmouseout", d, i); }
+    }
+});
+
+var chart_2 = c3.generate({
+    bindto: '#chart_2_2',
+    data: {
+        json: json_data_star,
+        type : 'donut',
+        onclick: function (d, i) { console.log("onclick", d, i); },
+        onmouseover: function (d, i) { console.log("onmouseover", d, i); },
+        onmouseout: function (d, i) { console.log("onmouseout", d, i); }
+    }
+});
