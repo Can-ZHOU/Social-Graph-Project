@@ -6,30 +6,30 @@
                     {
                         "each_repo": {
                             "name": "d3",
-                            "forkCount": 21558,
-                            "diskUsage": 41488,
+                            "forkCount": 21586,
+                            "diskUsage": 41490,
                             "stargazers": {
-                                "totalCount": 88638
+                                "totalCount": 88790
                             }
                         }
                     },
                     {
                         "each_repo": {
                             "name": "d3-shape",
-                            "forkCount": 227,
+                            "forkCount": 229,
                             "diskUsage": 1848,
                             "stargazers": {
-                                "totalCount": 1894
+                                "totalCount": 1895
                             }
                         }
                     },
                     {
                         "each_repo": {
                             "name": "d3-plugins",
-                            "forkCount": 709,
+                            "forkCount": 711,
                             "diskUsage": 676,
                             "stargazers": {
-                                "totalCount": 1809
+                                "totalCount": 1808
                             }
                         }
                     },
@@ -39,15 +39,15 @@
                             "forkCount": 148,
                             "diskUsage": 119,
                             "stargazers": {
-                                "totalCount": 1412
+                                "totalCount": 1413
                             }
                         }
                     },
                     {
                         "each_repo": {
                             "name": "d3-scale",
-                            "forkCount": 232,
-                            "diskUsage": 752,
+                            "forkCount": 233,
+                            "diskUsage": 784,
                             "stargazers": {
                                 "totalCount": 1153
                             }
@@ -56,30 +56,30 @@
                     {
                         "each_repo": {
                             "name": "d3-geo-projection",
-                            "forkCount": 167,
+                            "forkCount": 169,
                             "diskUsage": 20143,
                             "stargazers": {
-                                "totalCount": 782
+                                "totalCount": 785
                             }
                         }
                     },
                     {
                         "each_repo": {
                             "name": "d3-force",
-                            "forkCount": 236,
+                            "forkCount": 237,
                             "diskUsage": 600,
                             "stargazers": {
-                                "totalCount": 723
+                                "totalCount": 728
                             }
                         }
                     },
                     {
                         "each_repo": {
                             "name": "d3-geo",
-                            "forkCount": 114,
-                            "diskUsage": 5967,
+                            "forkCount": 117,
+                            "diskUsage": 5984,
                             "stargazers": {
-                                "totalCount": 502
+                                "totalCount": 504
                             }
                         }
                     },
@@ -96,10 +96,10 @@
                     {
                         "each_repo": {
                             "name": "d3-ease",
-                            "forkCount": 37,
+                            "forkCount": 38,
                             "diskUsage": 589,
                             "stargazers": {
-                                "totalCount": 455
+                                "totalCount": 457
                             }
                         }
                     },
@@ -109,7 +109,7 @@
                             "forkCount": 174,
                             "diskUsage": 1131,
                             "stargazers": {
-                                "totalCount": 450
+                                "totalCount": 452
                             }
                         }
                     }

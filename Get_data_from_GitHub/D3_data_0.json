@@ -11,21 +11,21 @@
                                     {
                                         "each_issue": {
                                             "author": {
-                                                "login": "wudashuaige"
-                                            },
-                                            "state": "CLOSED",
-                                            "locked": false,
-                                            "number": 3355
-                                        }
-                                    },
-                                    {
-                                        "each_issue": {
-                                            "author": {
                                                 "login": "srikarbobbiganipalli"
                                             },
                                             "state": "CLOSED",
                                             "locked": false,
                                             "number": 3356
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "syedaatif"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 3357
                                         }
                                     }
                                 ]
@@ -164,21 +164,21 @@
                                     {
                                         "each_issue": {
                                             "author": {
-                                                "login": "pravi"
-                                            },
-                                            "state": "CLOSED",
-                                            "locked": false,
-                                            "number": 229
-                                        }
-                                    },
-                                    {
-                                        "each_issue": {
-                                            "author": {
                                                 "login": "beekimrj"
                                             },
                                             "state": "CLOSED",
                                             "locked": false,
                                             "number": 234
+                                        }
+                                    },
+                                    {
+                                        "each_issue": {
+                                            "author": {
+                                                "login": "kaiyoma"
+                                            },
+                                            "state": "CLOSED",
+                                            "locked": false,
+                                            "number": 235
                                         }
                                     }
                                 ]
