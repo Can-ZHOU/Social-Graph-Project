@@ -58,3 +58,20 @@ div.content {
     float: none;
   }
 }
+
+.column_s1 {
+  float: left;
+  width: 70%;
+}
+
+.column_s2 {
+  float: left;
+  width: 30%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
