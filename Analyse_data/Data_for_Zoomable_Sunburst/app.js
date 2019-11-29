@@ -13,7 +13,7 @@ for (var i = 0; i < obj_1.length; i++) {
 
     str += "{\"name\": \"" + obj_1[i].each_repo.name + "\", \"children\": [";
 
-    str += "{\"name\": \"Forks" + j + "\", \"children\": [";
+    str += "{\"name\": \"Forks\", \"children\": [";
     for (var j = 0; j < obj_2.length; j++) {
         str += "{\"name\": \"" + obj_2[j].fork_n.name.login + "\", \"size\": 1}";
         if(j!=obj_2.length-1) {
@@ -22,7 +22,7 @@ for (var i = 0; i < obj_1.length; i++) {
     }
     str += "]},";
 
-    str += "{\"name\": \"Issues" + j + "\", \"children\": [";
+    str += "{\"name\": \"Issues\", \"children\": [";
     for (var j = 0; j < obj_3.length; j++) {
         str += "{\"name\": \"" + obj_3[j].issue_n.name.login + "\", \"size\": 1}";
         if(j!=obj_2.length-1) {
@@ -31,7 +31,7 @@ for (var i = 0; i < obj_1.length; i++) {
     }
     str += "]},";
 
-    str += "{\"name\": \"Stargazers" + j + "\", \"children\": [";
+    str += "{\"name\": \"Stargazers\", \"children\": [";
     for (var j = 0; j < obj_4.length; j++) {
         str += "{\"name\": \"" + obj_4[j].star_n.login + "\", \"size\": 1}";
         if(j!=obj_2.length-1) {
