@@ -6,7 +6,7 @@ var obj_1 = obj_0.data.D3_whole_project.D3_repo.D3_sub_repo_info
 
 var str = "var json_data = {\"name\": \"D3\", \"children\": [";
 
-for (var i = 0; i < obj_1.length; i++) {
+for (var i = 1; i < obj_1.length; i++) {
     var obj_2 = obj_1[i].each_repo.forks.fork_e;
     var obj_3 = obj_1[i].each_repo.issues.issue_e;
     var obj_4 = obj_1[i].each_repo.stargazers.start_e;
