@@ -4,11 +4,11 @@ var treeData = json_data;
 // Create a svg canvas
 // .style("border", "solid 1px #ccc")
 var vis = d3.select("#viz").append("svg:svg")
-.attr("width", 1000)
-.attr("height", 1000)
+.attr("width", 800)
+.attr("height", 800)
 .style("font", "10px sans-serif")
 .append("svg:g")
-.attr("transform", "translate(450, 450)");
+.attr("transform", "translate(400, 400)");
 
 // Create a cluster "canvas"
 var cluster = d3.layout.cluster()
