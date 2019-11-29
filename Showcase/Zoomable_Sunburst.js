@@ -1,4 +1,3 @@
-//https://codepen.io/denjn5/pen/bwwoAy
 var width = 700,
   height = 700,
   radius = Math.min(width, height) / 2;
@@ -21,7 +20,6 @@ var arc = d3.svg.arc()
   .innerRadius(function (d) { return Math.max(0, y(d.y)); })
   .outerRadius(function (d) { return Math.max(0, y(d.y + d.dy)); });
 
-//d3.json("/d/4063550/flare.json", function(error, root) {
 var root =  getData();
 
 var g = svg.selectAll("g")
@@ -31,7 +29,6 @@ var path = g.append("path").attr("d", arc)
   .style("fill", function (d) { return color((d.children ? d : d.parent).name); })
   .on("click", click);
 
-//.append("text")
 var text = g.append("text").attr("x", function (d) { return y(d.y); })
   .attr("dx", "6") // margin
 	.attr("dy", ".35em") // vertical-align
