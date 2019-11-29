@@ -18,4 +18,4 @@ If there has any confusion, Please email me: zhouc@tcd.ie
       with your personal GitHub access token.
     - Open the terminal where the downloaded file is located.
     - In terminal, type: `node app.js`
-    - The data will be stored in a JSON file.
+    - The data will be stored in three JSON files.
