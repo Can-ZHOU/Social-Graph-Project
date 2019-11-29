@@ -1,4 +1,3 @@
-//https://codepen.io/denjn5/pen/bwwoAy
 var width = 700,
   height = 700,
   radius = Math.min(width, height) / 2;
@@ -8,9 +7,9 @@ var y = d3.scale.sqrt().range([0, radius]);
 var color = d3.scale.category20();
 
 var svg = d3.select("#viz").append("svg")
-  .attr("width", width)
+  .attr("width", width+150)
   .attr("height", height)
-  .append("g").attr("transform", "translate(" + width / 2 + "," + (width / 2 ) + ") rotate(-90 0 0)");
+  .append("g").attr("transform", "translate(" + (width / 2 + 50) + "," + (width / 2 ) + ") rotate(-90 0 0)");
 
 var partition = d3.layout.partition()
   .value(function (d) { return d.size; });
@@ -21,7 +20,6 @@ var arc = d3.svg.arc()
   .innerRadius(function (d) { return Math.max(0, y(d.y)); })
   .outerRadius(function (d) { return Math.max(0, y(d.y + d.dy)); });
 
-//d3.json("/d/4063550/flare.json", function(error, root) {
 var root =  getData();
 
 var g = svg.selectAll("g")
@@ -31,7 +29,6 @@ var path = g.append("path").attr("d", arc)
   .style("fill", function (d) { return color((d.children ? d : d.parent).name); })
   .on("click", click);
 
-//.append("text")
 var text = g.append("text").attr("x", function (d) { return y(d.y); })
   .attr("dx", "6") // margin
 	.attr("dy", ".35em") // vertical-align
