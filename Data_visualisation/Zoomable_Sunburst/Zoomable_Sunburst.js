@@ -1,6 +1,6 @@
 //https://codepen.io/denjn5/pen/bwwoAy
-var width = 800,
-  height = 1000,
+var width = 700,
+  height = 700,
   radius = Math.min(width, height) / 2;
 
 var x = d3.scale.linear().range([0, 2 * Math.PI]);
@@ -10,7 +10,7 @@ var color = d3.scale.category20();
 var svg = d3.select("body").append("svg")
   .attr("width", width)
   .attr("height", height)
-  .append("g").attr("transform", "translate(" + width / 2 + "," + (height / 2 + 10) + ") rotate(-90 0 0)");
+  .append("g").attr("transform", "translate(" + width / 2 + "," + (width / 2 ) + ") rotate(-90 0 0)");
 
 var partition = d3.layout.partition()
   .value(function (d) { return d.size; });
