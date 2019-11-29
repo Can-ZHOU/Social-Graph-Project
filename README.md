@@ -4,6 +4,8 @@ Written by
 Can ZHOU (19324118)  
 If there has any confusion, Please email me: zhouc@tcd.ie
 
+### Click Here For **[Live Demo](https://can-zhou.github.io/CS3012/index.html)**
+
 ### Get data from GitHub (GitHub Access)  
 - I use Github GraphQL API with Node.js.
 - Using node-fetch to make HTTP requests with Node.js.
@@ -27,6 +29,10 @@ If there has any confusion, Please email me: zhouc@tcd.ie
     2. Radial tidy tree.
     3. Zoomable sunburst.
 - Using D3.js and C3.js [A JavaScript library dependent on D3]
+
+### Showcase
+- A websit for live demo.
+- Click here for **[Live Demo](https://can-zhou.github.io/CS3012/index.html)**
 
 ### Run the code
 - Run the code in Get_data_from_GitHub
