@@ -52,7 +52,7 @@ If there has any confusion, Please email me: zhouc@tcd.ie
     - Go to each floder.
     - Open the terminal where the downloaded file is located.
     - In terminal, type: `node app.js`
-    - The data will be analysed and stored in three JSON files.
+    - The data will be analysed and stored in three JavaScript files.
 
 - Run the code in Data_visualisation
     - Download and click the HTML file.
