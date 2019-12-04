@@ -7,6 +7,7 @@ If there has any confusion, Please email me: zhouc@tcd.ie
 ### Get data from GitHub (GitHub Access)  
 - I use Github GraphQL API with Node.js.
 - Using node-fetch to make HTTP requests with Node.js.
+- I have gained four JSON files for different aspects of D3 project information.
 
 ### Run the code
 - Run the code in Get_data_from_GitHub

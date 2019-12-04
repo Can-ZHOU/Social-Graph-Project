@@ -18,10 +18,7 @@ If there has any confusion, Please email me: zhouc@tcd.ie
     3. Stars with comparing five D3 sub-repo.
     4. Disk usage with comparing five D3 sub-repo.
     5. Some issue data in D3.
-- I have analysed three types of data:
-    1. Used for pie, line and donut charts.
-    2. Used for radial tidy tree.
-    3. Used for zoomable sunburst.
+
 
 ### Run the code
 - Run the code in Analyse_data 
