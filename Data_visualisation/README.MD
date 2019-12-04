@@ -6,9 +6,11 @@ If there has any confusion, Please email me: zhouc@tcd.ie
 
 ### Data visualisation
 - I have visualized three types of data:
-    1. pie and Donut charts.
-    2. Radial tidy tree.
-    3. Zoomable sunburst.
+    1. Commits in D3 main repo with years and month.
+    2. Forks with comparing five D3 sub-repo.
+    3. Stars with comparing five D3 sub-repo.
+    4. Disk usage with comparing five D3 sub-repo.
+    5. Some issue data in D3.
 - Using D3.js and C3.js [A JavaScript library dependent on D3]
 
 ### Radial Tidy Tree

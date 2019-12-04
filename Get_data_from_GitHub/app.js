@@ -163,3 +163,70 @@ fetch('https://api.github.com/graphql', {
     }
     )
     .catch(error => console.error(error));
+
+/* Forth */
+var query = `
+query {
+  D3_whole_project:repositoryOwner(login:"d3"){
+    D3_repo: repositories(first:1) {
+      D3_sub_repo_info:edges{
+        each_repo:node{
+          name
+          object(expression: "master") {
+      			... on Commit {
+        			total: history {
+          			totalCount
+        			}
+        		first100: history(first: 100) {
+          		edges {
+            		node {
+              		committedDate
+            		}
+          		}
+       		 	}
+            second100: history(after: "1126611a8972244ba2e876f57a71c82c3098331b 99") {
+          		edges {
+            		node {
+              		committedDate
+            		}
+          		}
+       		 	}
+            third100: history(after: "1126611a8972244ba2e876f57a71c82c3098331b 199") {
+          		edges {
+            		node {
+              		committedDate
+            		}
+          		}
+       		 	}
+        	}
+      	}
+    	}
+		}
+    }
+	}
+}`;
+
+  
+// Using fetch to access GitHub GraphQL API.
+fetch('https://api.github.com/graphql', {
+    method: 'POST',
+    body: JSON.stringify({ query }),
+    headers: {
+        'Authorization': `Bearer ${accessToken}`,
+    },
+}).then(res => res.text())
+    .then(body => {
+
+        // Output a JSON file named D3_repo.json to store the D3 repo information.
+        var fs = require('fs');
+        var outputFilename = './D3_data_3.json';
+        fs.writeFile(outputFilename, body, function (err) {
+            if (err) {
+                console.log(err);
+            } else {
+                console.log("JSON saved to " + outputFilename);
+            }
+        });
+    }
+    )
+    .catch(error => console.error(error));
