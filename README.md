@@ -1,10 +1,13 @@
-## CS3012 Software Engineering Assignment 5: **Social Graph Project**  
+## CS3012 Software Engineering Assignment 5: **Social Graph Project [[Live Demo]](https://can-zhou.github.io/CS3012/index.html)**  
 
 Written by  
 Can ZHOU (19324118)  
 If there has any confusion, Please email me: zhouc@tcd.ie
 
 ## Introduction
+- **I have built a [Live Demo](https://can-zhou.github.io/CS3012/index.html) website to show the work:   
+https://can-zhou.github.io/CS3012/index.html**  
+**I also made website screencasts for viewing in the README.**
 - This is the social graph project to build visualisation of data available that elucidates some aspect of the softare engineering process.
 - I chose D3 to analyse and build visualisation.
 - I figured out those aspects:
@@ -19,10 +22,9 @@ If there has any confusion, Please email me: zhouc@tcd.ie
     - Gain star/fork information can show which sub-repo is more popular and have more developers to involve the project.
     - Gain disk usage information can show the disk space for the sub-repo, so the developers can manage the projects better.
     - Because many D3 sub-repos have a lot of useless data, I selected some repo and data for analysis.
-- **More details: I have built a live demo websit to show the work: [Live Demo](https://can-zhou.github.io/CS3012/index.html)**
 
 ## [Live Demo](https://can-zhou.github.io/CS3012/index.html)
-### I have built a websit to show the work. Click here for **[Live Demo](https://can-zhou.github.io/CS3012/index.html)**
+### I have built a website to show the work. Click here for **[Live Demo](https://can-zhou.github.io/CS3012/index.html)**
 
 ![0_0](https://github.com/Can-ZHOU/Picture-Reference/blob/master/0_0.gif)
 ![0_1](https://github.com/Can-ZHOU/Picture-Reference/blob/master/0_1.gif)
@@ -112,6 +114,12 @@ If there has any confusion, Please email me: zhouc@tcd.ie
 
 
 ## Part One - GitHub Access
+### Interrogate the GitHub API to retrieve and display data regarding the logged in developer
+- GitHub has [GitHub GraphQL API Explorer](https://developer.github.com/v4/explorer/) to achieve the work online.
+- It will return the JSON data.
+- I also use Github GraphQL API to gain data in the social graph part, but using node-fetch to make HTTP requests with Node.js.
+- Result screenshot:
+- ![8](https://github.com/Can-ZHOU/Picture-Reference/blob/master/8.png)
 ### Get data from GitHub 
 - I use Github GraphQL API with Node.js.
 - Using node-fetch to make HTTP requests with Node.js.
@@ -147,7 +155,7 @@ If there has any confusion, Please email me: zhouc@tcd.ie
 - Using D3.js and C3.js [A JavaScript library dependent on D3]
 
 ### Showcase
-- A websit for live demo.
+- A website for live demo.
 - Click here for **[Live Demo](https://can-zhou.github.io/CS3012/index.html)**
 
 ## Run the code
@@ -179,5 +187,5 @@ If there has any confusion, Please email me: zhouc@tcd.ie
 ## Librarys & Reference
 - **[D3.js](https://d3js.org/)**
 - **[C3.js](https://c3js.org/)** [ D3-based reusable chart library ]
-- **[Sunburst Example](https://codepen.io/denjn5/pen/bwwoAy)** [ I have learnt and moidied code from this websit ]
-- **[Radial Tidy Tree Example](https://bl.ocks.org/FrissAnalytics/ffbd3cb71848616957cd4c0f41738aec)** [ I have learnt and moidied code from this websit ]
+- **[Sunburst Example](https://codepen.io/denjn5/pen/bwwoAy)** [ I have learnt and moidied code from this website ]
+- **[Radial Tidy Tree Example](https://bl.ocks.org/FrissAnalytics/ffbd3cb71848616957cd4c0f41738aec)** [ I have learnt and moidied code from this website ]
