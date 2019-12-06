@@ -23,7 +23,7 @@ https://can-zhou.github.io/CS3012/index.html**
     - Gain disk usage information can show the disk space for the sub-repo, so the developers can manage the projects better.
 
 ## [Live Demo](https://can-zhou.github.io/CS3012/index.html)
-### I have built a website to show the work. More detiles are displayed in the live demo website.
+### I have built a website to show the work. More details are displayed in the live demo website.
 ### **Click here for [Live Demo](https://can-zhou.github.io/CS3012/index.html)**
 
 ## Graphs & Charts Categories
