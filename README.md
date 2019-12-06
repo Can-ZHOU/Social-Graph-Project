@@ -21,15 +21,12 @@ https://can-zhou.github.io/CS3012/index.html**
     - Analysing commit in each month and each year can let us know more developers' coding habits and repo/project construction status every year and month.
     - Gain star/fork information can show which sub-repo is more popular and have more developers to involve the project.
     - Gain disk usage information can show the disk space for the sub-repo, so the developers can manage the projects better.
-    - Because many D3 sub-repos have a lot of useless data, I selected some repo and data for analysis.
 
 ## [Live Demo](https://can-zhou.github.io/CS3012/index.html)
-### I have built a website to show the work. Click here for **[Live Demo](https://can-zhou.github.io/CS3012/index.html)**
+### I have built a website to show the work. More detiles are displayed in the live demo website.
+### **Click here for [Live Demo](https://can-zhou.github.io/CS3012/index.html)**
 
-![0_0](https://github.com/Can-ZHOU/Picture-Reference/blob/master/0_0.gif)
-![0_1](https://github.com/Can-ZHOU/Picture-Reference/blob/master/0_1.gif)
-![0_2](https://github.com/Can-ZHOU/Picture-Reference/blob/master/0_2.gif)
-
+## Graphs & Charts Categories
 ### Zoomable Sunburst Graph: [Quick Link](https://can-zhou.github.io/CS3012/Zoomable_Sunburst.html)
 - The D3 sub-repos which star number is in the top five in total.
 - Showing the latest 3 people's name who fork, submit issue, star to those repos (2019-11-29).
@@ -184,7 +181,7 @@ https://can-zhou.github.io/CS3012/index.html**
 ### Run the code in Showcase
 - Click here for **[Live Demo](https://can-zhou.github.io/CS3012/index.html)**
 
-## Librarys & Reference
+## Library & Reference
 - **[D3.js](https://d3js.org/)**
 - **[C3.js](https://c3js.org/)** [ D3-based reusable chart library ]
 - **[Sunburst Example](https://codepen.io/denjn5/pen/bwwoAy)** [ I have learnt and moidied code from this website ]
