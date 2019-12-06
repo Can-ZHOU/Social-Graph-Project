@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <title>CS3012: Social Graph Project</title>
+  <link rel="stylesheet" type="text/css" href="CS3012.css">
+  <style> 
+    path {
+        stroke: #fff;
+        fill-rule: evenodd;
+    }
+  </style>
+<body>
+    <div class="sidebar">
+        <a href="index.html">About</a>
+        <a class="active" href="Zoomable_Sunburst.html">Zoomable Sunburst</a>
+        <a href="Radial_Tidy_Tree.html">Radial Tidy Tree</a>
+        <a href="Pie_Chart_Sum.html">Charts - Overview</a>
+        <a href="Commit.html">Charts - Commit Analysis</a>
+        <a href="Pie_Chart_Star_Count.html">Charts - Star Count</a>
+        <a href="Pie_Chart_Fork_Count.html">Charts - Fork Count</a>
+        <a href="Pie_Chart_Disk_Usage.html">Charts - Disk Usage</a>
+    </div>
+
+    <div class="content">
+      <div class="row">
+          <div class="column_s1">
+              <div id="viz"></div>
+          </div>
+          <div class="column_s2">
+<h2>Zoomable Sunburst Graph:</h2>
+
+<ul><li>The D3 sub-repos which star number is in the top five in total.</li><li>Showing the latest 3 people&#39;s name who fork, submit issue, star to those repos (2019-11-29).<ul><li>The innermost layer is D3.</li><li>The second layer shows the names of these five repos.</li><li>The third layer is the classification of Fork, Issue, and Stargazers.</li><li>The fourth layer shows the name of the person who performed these actions.</li></ul></li><li>It has zoomable function as well:<ul><li>Click on arc in order to zoom in.</li><li>Click on the center circle to zoom out.</li><li>Avoid clicking text when click.</li></ul></li></ul>
+          </div>
+      </div>
+    </div>
+
+    
+
+    <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
+    <script type="text/javascript" src="Zoomable_Sunburst_JSON.js"></script>
+    <script type="text/javascript" src="Zoomable_Sunburst.js"></script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CS3012: Social Graph Project</title>
+    <link rel="stylesheet" type="text/css" href="CS3012.css">
+</head>
+
+<body>
+    <div class="sidebar">
+        <a href="index.html">About</a>
+        <a href="Zoomable_Sunburst.html">Zoomable Sunburst</a>
+        <a class="active" href="Radial_Tidy_Tree.html">Radial Tidy Tree</a>
+        <a href="Pie_Chart_Sum.html">Charts - Overview</a>
+        <a href="Commit.html">Charts - Commit Analysis</a>
+        <a href="Pie_Chart_Star_Count.html">Charts - Star Count</a>
+        <a href="Pie_Chart_Fork_Count.html">Charts - Fork Count</a>
+        <a href="Pie_Chart_Disk_Usage.html">Charts - Disk Usage</a>
+    </div>
+
+    <div class="content">
+        <div class="row">
+        <div class="column_s1">
+            <div id="viz"></div>
+        </div>
+        <div class="column_s2">
+            
+<h2>Radial Tidy Tree Graph: </h2>
+
+<ul><li>The issues of first ten repos of D3 are shown.</li><li>It displays the latest issue information of each repo.</li><li>For each issue, it describes:<ul><li>The issue number.</li><li>Whether issue is locked?</li><li>Issue current state.</li><li>Who submitted this issue.</li></ul></li></ul>
+
+        </div>
+        </div>
+        <script src="Radial_Tidy_Tree_JSON.js"> </script>
+    </div>
+    <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
+    <script type="text/javascript" src="Radial_Tidy_Tree.js"></script>
+</body>
+</html> 

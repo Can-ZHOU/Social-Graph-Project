@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CS3012: Social Graph Project</title>
+    <link rel="stylesheet" type="text/css" href="CS3012.css">
+    <!-- Load c3.css -->
+    <link href="C3_src_files/c3.css" rel="stylesheet">
+    <!-- Load d3.js and c3.js -->
+    <script src="https://d3js.org/d3.v5.min.js" charset="utf-8"></script>
+    <script src="C3_src_files/c3.min.js"></script> 
+</head>
+
+<body>
+    <div class="sidebar">
+        <a href="index.html">About</a>
+        <a href="Zoomable_Sunburst.html">Zoomable Sunburst</a>
+        <a href="Radial_Tidy_Tree.html">Radial Tidy Tree</a>
+        <a class="active" href="Pie_Chart_Sum.html">Charts - Overview</a>
+        <a href="Commit.html">Charts - Commit Analysis</a>
+        <a href="Pie_Chart_Star_Count.html">Charts - Star Count</a>
+        <a href="Pie_Chart_Fork_Count.html">Charts - Fork Count</a>
+        <a href="Pie_Chart_Disk_Usage.html">Charts - Disk Usage</a>
+    </div>
+
+
+    <div class="content">
+    <div class="row">
+    <div class="column">
+        <div id="chart_d"></div>
+        <div id="chart"></div>
+    </div>
+    <div class="column">
+
+<h2>Charts -- Overview:</h2>
+
+<ul><li>In this part, I use pie and donut charts to show the overview information I collected.</li><li>The upper chart shows the value and underlayer shows the percentage.</li><li>This is a flowing chart.<br/>With this order:<ul><li>Fork Count pie chart.</li><li>Disk Usage pie chart.</li><li>Start Count pie chart.</li><li>Commit by each year pie chart.</li><li>Commit by each month pie chart.</li><li>Fork Count donut chart.</li><li>Disk Usage donut chart.</li><li>Start Count donut chart.</li><li>Commit by each year donut chart.</li><li>Commit by each month donut chart.</li></ul></li><li>Charts have those functions as well:<ul><li>Mouse over the sector / arc to focus on specific data.</li><li>Mouse over the legend below each chart to focus on specific data.</li><li>Click on the legend below each chart to hide specific data.</li></ul></li></ul>
+
+    </div>
+    </div>
+    </div>
+
+    <script src="Pie_Chart_JSON.js"></script>
+    <script src="Commit_JSON.js"></script>
+    <script src="Pie_Chart.js"></script>
+</body>
+</html> 
